@@ -2,7 +2,7 @@
 
 import React, { type JSX, type ReactNode } from 'react'
 import '@rainbow-me/rainbowkit/styles.css'
-import {
+import { 
   getDefaultConfig,
   RainbowKitProvider,
   lightTheme,
