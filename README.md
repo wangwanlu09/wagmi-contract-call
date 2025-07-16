@@ -1,7 +1,7 @@
 # TuTu Airdrop Demo
 
 A modern Web3 airdrop application built with Next.js 15 and deployed on the Linea network. This project allows users to claim TuTu tokens based on their Linea XP.
-
+ 
 ## Features
 
 - **Wallet Integration**: Seamless wallet connection using RainbowKit
