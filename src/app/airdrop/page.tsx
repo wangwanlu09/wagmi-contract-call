@@ -3,7 +3,7 @@
 import { type JSX } from 'react'
 import dynamic from 'next/dynamic'
 import NavBar from '@/components/NavBar'
-
+ 
 // Dynamically import the AirdropContent component with SSR disabled
 const AirdropContent = dynamic(() => import('./AirdropContent'), {
   ssr: false,
