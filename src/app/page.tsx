@@ -40,7 +40,7 @@ export default function Home(): JSX.Element {
             <img
               src={BACKGROUND_IMAGE_URL}
               alt="Background"
-              className="w-full h-full object-cover"
+              className="w-full h-full object-cover" 
               loading="eager"
             />
             {/* Semi-transparent black overlay */}
